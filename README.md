@@ -7,3 +7,4 @@
 - [React Native MMKV](https://github.com/mrousavy/react-native-mmkv) ★481
 - [React Native MMKV Storage](https://github.com/ammarahm-ed/react-native-mmkv-storage) ★321
 - [React Native Multithreading](https://github.com/mrousavy/react-native-multithreading) ★327
+- [React Native randomValues JSI Helper](https://github.com/mateioprea/react-native-random-values-jsi-helper) ★17
